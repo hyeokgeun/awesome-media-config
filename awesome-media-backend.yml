@@ -14,7 +14,7 @@ spring:
  h2:
   console:
     enabled: true
-name: hyeokgeun  
+name: hyeokgeun-2  
     
 management:
   security:
